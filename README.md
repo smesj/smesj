@@ -3,19 +3,19 @@ smesj/smesj is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align=center>👋 Hi, I’m Sam</h1>
+<h1 align=center>👋 Hi</h1>
 
 <div align="center">
     <!-- gif made by Nishanth Sanjayh @ https://nishanth-sanjay.tumblr.com/post/149757150045/hacker-dude-mess-with-the-best-die-like -->
     <img height="auto" width="30%" alt="GIF" src="https://64.media.tumblr.com/04f17f854c5b70b20feab1ae11546106/tumblr_ocsfnnatMf1sbwba3o1_1280.gif"/>
 </div>
 <div align=center>
-  <h4>
-    I am a full stack developer with a passion for front end. Though lately the power of the cloud has pushed dev-ops to the top of the charts!
-  </h4>
-  <h4>
+  <h6>
+    I'm Sam, a full stack developer with a passion for front end. Though lately the power of the cloud has pushed dev-ops to the top of the charts!
+  </h6>
+  <h6>
     A proud product of the #siliconPrairie. I have lived and worked from the glorious, and sometimes a bit chilly, Saskatoon Saskatchewan.
-  </h4>
+  </h6>
   <h3 align=center>get @ me</h3>
   <h4>📫 Reach me by email or via https://www.linkedin.com/in/sam-meschishnick/</h4>
 </div>
