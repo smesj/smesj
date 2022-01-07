@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
   <h6>
     A proud product of the #siliconPrairie. I have lived and worked from the glorious, and sometimes a bit chilly, Saskatoon Saskatchewan.
   </h6>
-  <h3 align=center>get @ me</h3>
-  <h4>📫 Reach me by email or via https://www.linkedin.com/in/sam-meschishnick/</h4>
+  <h3 align=center>Get @ Me</h3>
+  <h6>📫 Reach me by email or via https://www.linkedin.com/in/sam-meschishnick/</h6>
 </div>
 <div align=center>
   <h2>🔧 Tech & Tools</h2>
