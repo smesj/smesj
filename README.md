@@ -4,6 +4,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align=center>👋 Hi, I’m Sam</h1>
+
+<div align="center">
+    <!-- gif made by Nishanth Sanjayh @ https://nishanth-sanjay.tumblr.com/post/149757150045/hacker-dude-mess-with-the-best-die-like -->
+    <img height="auto" width="63%" alt="GIF" src="https://64.media.tumblr.com/04f17f854c5b70b20feab1ae11546106/tumblr_ocsfnnatMf1sbwba3o1_1280.gif"/>
+</div>
 <div align=center>
   <h4>
     I am a full stack developer with a passion for front end. Though lately the power of the cloud has pushed dev-ops to the top of the charts!
