@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
     I am a full stack developer with a passion for front end. Though lately the power of the cloud has pushed dev-ops to the top of the charts!
   </h4>
   <h4>
-    A proud product of the #siliconPrairie I have lived and worked from the glorious, and sometimes a bit chilly, Saskatoon Saskatchewan.
+    A proud product of the #siliconPrairie. I have lived and worked from the glorious, and sometimes a bit chilly, Saskatoon Saskatchewan.
   </h4>
   <h3 align=center>get @ me</h3>
   <h4>📫 Reach me by email or via https://www.linkedin.com/in/sam-meschishnick/</h4>
